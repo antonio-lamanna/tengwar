@@ -1,0 +1,13 @@
+Tengwar — esportazione Sites versione 2
+
+App sperimentale in sviluppo.
+Avvio: installare Python 3, quindi eseguire AVVIA-WINDOWS.bat oppure:
+python3 -m http.server 8080 --bind 127.0.0.1 --directory dist
+Aprire http://localhost:8080
+Non aprire index.html con doppio clic: usa moduli JavaScript.
+
+La cartella dist contiene i sorgenti originali HTML, CSS e JavaScript.
+Nessuna compilazione o dipendenza necessaria per usare l’app.
+I progetti salvati nel browser Sites non sono inclusi: esportarli in XML dal sito e importarli in locale.
+README.md originale incluso come riferimento; sostituibile con il nuovo README.
+Sorgente Sites: 7078d5800707d687e03d6e6f49c8ef634dee53e0
